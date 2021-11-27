@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "name": "Programming for Everybody (Getting Started with Python)",
+      "teacher": "Charles Severance",
+      "students": "441,210",
+      "price": 49,
+      "language": "English",
+      "img": "https://prod-discovery.edx-cdn.org/media/course/image/911175d0-6724-4276-a058-c7b052773dd1-aba3108f3ab9.small.png"
+    },
+    {
+      "id": "2",
+      "name": "Computing in Python I: Fundamentals and Procedural Programming",
+      "teacher": "David Joyner",
+      "students": "190,753",
+      "price": 249,
+      "language": "English",
+      "img": "https://prod-discovery.edx-cdn.org/media/course/image/e540320a-f125-4021-8f1c-9cbc84c96d87-cd703d5892ba.small.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Programming for Data Science",
+      "teacher": "Katrina Falkner",
+      "students": "44,224",
+      "price": 99,
+      "language": "English",
+      "img": "https://prod-discovery.edx-cdn.org/media/course/image/b66b8f6d-ae1a-4ee8-8079-0361a879fc23-60f58d61f86a.small.jpg"
+    },
+    {
+      "id": "4",
+      "name": "CS50s Introduction to Computer Science",
+      "teacher": "David J. Malan",
+      "students": "3,083,669",
+      "price": 299,
+      "language": "English",
+      "img": "https://prod-discovery.edx-cdn.org/media/course/image/da1b2400-322b-459b-97b0-0c557f05d017-3b9fb73b5d5d.small.jpg"
+    }
+  ]
