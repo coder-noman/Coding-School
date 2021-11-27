@@ -11,3 +11,5 @@ website name: Coding-School
 5. this way you can see the price of any course and if you buy many courses together you can see the price together.
 
 6. you cal also see our Blog in Blog page.
+
+Live SIte: https://coding-schools.netlify.app/
